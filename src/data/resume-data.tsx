@@ -20,56 +20,56 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Stephen Mayowa Ojunde",
+  initials: "SM",
+  location: "Lagos, Nigeria, WAT",
+  locationLink: "https://www.google.com/maps/place/lagos",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "Experienced web developer skilled in frontend  technologies, with proven track record of delivering user-friendly websites promptly and within budget. Actively seeking opportunities to innovate and advance digital solutions.",
+  avatarUrl: "https://res.cloudinary.com/dkkyvnhhg/image/upload/e_improve/v1716529165/miyagi_pic_ywcedk.png",
+  personalWebsiteUrl: "https://www.linkedin.com/in/stephenmayowa/",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "stephenmayowa112@gmail.com",
+    tel: "+2348130864548",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/stephenmayowa112",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/stephenmayowa/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://twitter.com/stephenmayowa16",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "University of Lagos",
+      degree: "Bachelor's Degree in Applied Physics",
+      start: "2017",
+      end: "2023",
     },
   ],
   work: [
     {
-      company: "Parabol",
+      company: "Univelcity",
       link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      badges: ["Onsite"],
+      title: "Full Stack Developer (Trainee)",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "2024",
+      end: "",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Developed numerous full fledge responsive websites using react components, and django framework, "
     },
     {
       company: "Clevertech",
@@ -83,17 +83,7 @@ export const RESUME_DATA = {
         "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
-      company: "Jojo Mobile",
-      link: "https://bsgroup.eu/",
-      badges: [],
-      title: "Android Developer → Lead Android Developer",
-      logo: JojoMobileLogo,
-      start: "2012",
-      end: "2015",
-      description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
-    },
-    {
+      
       company: "Nokia Siemens Networks",
       link: "https://www.nokia.com",
       badges: [],
@@ -107,11 +97,14 @@ export const RESUME_DATA = {
   skills: [
     "JavaScript",
     "TypeScript",
-    "React/Next.js/Remix",
+    "React",
     "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Python",
+    "Django",
+    "Git",
+    "Cloud Computing",
+    "Tailwind CSS",
+    
   ],
   projects: [
     {
